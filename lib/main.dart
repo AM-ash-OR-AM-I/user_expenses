@@ -30,6 +30,7 @@ class ExpensesApp extends StatelessWidget {
         final color = isDarkMode ? darkDynamic : lightDynamic;
         return MaterialApp(
           title: 'Flutter Demo',
+          debugShowCheckedModeBanner: false,
           theme: ThemeData(
               useMaterial3: true,
               colorScheme:

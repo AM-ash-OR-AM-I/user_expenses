@@ -10,7 +10,7 @@ This app keeps track of your expenses
 
 
 ## Screenshots
-<img src = "screenshots/screenshot.jpg" height = 500>
+<img src = "screenshots/screenshot.png" height = 500>
 
 ## Installation
 * Make sure install <a href="https://flutter.dev" flutter>flutter sdk</a> first.
