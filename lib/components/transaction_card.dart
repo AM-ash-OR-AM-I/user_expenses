@@ -24,9 +24,10 @@ class TransactionCard extends StatelessWidget {
                 padding: const EdgeInsets.symmetric(horizontal: 10),
                 height: 60,
                 decoration: BoxDecoration(
-                  border: Border.all(
-                    color: Theme.of(context).colorScheme.primary,
-                  ),
+                  color: Theme.of(context)
+                      .colorScheme
+                      .secondaryContainer
+                      .withOpacity(.5),
                   borderRadius: BorderRadius.circular(20),
                 ),
                 child: Row(
@@ -101,7 +102,10 @@ class DecoratedContainer extends StatelessWidget {
           borderRadius: BorderRadius.circular(20),
           boxShadow: [
             BoxShadow(
-              color: Theme.of(context).colorScheme.primaryContainer,
+              color: Theme.of(context)
+                  .colorScheme
+                  .secondaryContainer
+                  .withOpacity(.9),
               blurRadius: 5,
               spreadRadius: 1,
             )

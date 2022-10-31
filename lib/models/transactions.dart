@@ -23,7 +23,8 @@ class TransactionsModel with ChangeNotifier {
     String dateStr = DateFormat.yMMMd().format(DateTime.now()).toString();
     String time = DateFormat.jm().format(DateTime.now()).toString();
     total += amount;
-    transactions.add(
+    transactions.insert(
+      0,
       Transaction(
         title: title,
         amount: amount,

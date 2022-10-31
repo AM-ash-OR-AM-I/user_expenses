@@ -22,7 +22,10 @@ class HeadingToolbar extends StatelessWidget {
                 spreadRadius: 5,
                 blurRadius: 8,
                 offset: const Offset(0, 1),
-                color: Theme.of(context).colorScheme.primaryContainer,
+                color: Theme.of(context)
+                    .colorScheme
+                    .secondaryContainer
+                    .withOpacity(.9),
               )
             ]),
         child: Column(
