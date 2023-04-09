@@ -1,19 +1,24 @@
 # Expenses Tracker
-This app keeps track of your expenses
+Flutter app to keeps track of your expenses
+
+## Getting Started
+
+- Clone the repo
+    - ssh: `git clone git@github.com:AM-ash-OR-AM-I/user_expenses.git`
+    - https: `https://github.com/AM-ash-OR-AM-I/user_expenses.git`
+- Make sure install [flutter](https://flutter.dev) sdk first.
+- run `flutter doctor` in terminal/cmd to check if everything is setup correctly
+- Open the project in your favorite IDE (VSCode, Android Studio, etc)
+- Run `flutter pub get` to install all dependencies
+- run `main.dart` for android or windows/linux
 
 ## Features
-```
 * Uses Material v3 monet engine for dynamic wallpaper based color 🎨 palette (For Android 12)
 
 * Auto dark 🌙 mode
-```
-
 
 ## Screenshots
 <img src = "screenshots/screenshot.png" height = 500>
 
-## Installation
-* Make sure install <a href="https://flutter.dev" flutter>flutter sdk</a> first.
-* run `flutter doctor` in terminal/cmd
-* clone the repo and run `flutter pub get` to install all dependencies.
-* run `main.dart` for any platform and 🚀
+## Contributing
+Would love to see your ideas and contributions to this project. Feel free to open an issue or a pull request.
