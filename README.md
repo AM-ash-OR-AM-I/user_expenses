@@ -23,4 +23,5 @@ Flutter app to keeps track of your expenses
 ## Contributing
 - Visit [Issues tab](https://github.com/AM-ash-OR-AM-I/user_expenses/issues) to see list of active issues to which you can contribute.
 - Make a PR (Pull Request) after you are done with changes.
-Would love to see your ideas and contributions to this project. Feel free to open an issue or a pull request.
+
+Would love to see your ideas and contributions to this project!
