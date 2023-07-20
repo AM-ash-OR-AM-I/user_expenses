@@ -1,6 +1,6 @@
 {
-    "name": "new_user_expenses",
-    "short_name": "new_user_expenses",
+    "name": "user_expenses",
+    "short_name": "user_expenses",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
