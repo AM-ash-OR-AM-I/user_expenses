@@ -1,7 +1,10 @@
 # Expenses Tracker
 Flutter app to keeps track of your expenses
 
-## Getting Started
+## Try it out 📥️
+Check out [releases here](https://github.com/AM-ash-OR-AM-I/user_expenses/releases)
+
+## Getting Started 🛠️
 
 - Clone the repo
     - ssh: `git clone git@github.com:AM-ash-OR-AM-I/user_expenses.git`
@@ -35,7 +38,6 @@ Would love to see your ideas and contributions to this project!
 
 ## Features
 * Uses Material v3 monet engine for dynamic wallpaper based color 🎨 palette (For Android 12)
-
 * Auto dark 🌙 mode
 
 ## Screenshots
